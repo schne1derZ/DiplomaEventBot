@@ -1,10 +1,11 @@
 1. Cabinet for user
 2. Recommend Events for user by passing test
-3. Exception on unique, exist, null, turn off.
-4. Hash password+++
+3. Exception on unique, exist, null, turn off.(+++)
+4. Hash password(+++)
 5. Probably add back button to go back in 1 step
 6. Admin login and menu
 7. Admin add teacher, add event, add info.
 8. Teacher login, teacher cabinet, teacher update
 9. Delete acc for student, teacher
 10. Command clear conversations
+11. password from 4 char to 20)
