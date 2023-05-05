@@ -1,4 +1,4 @@
-1. Cabinet for user                                        main func 
+1. Cabinet for user                                        main func done+
 2. Recommend Events for user by passing test               main func
 3. Exception on unique, exist, null, turn off.(+++)        done
 4. Hash password(+++)                                      done 
@@ -9,3 +9,4 @@
 9. Delete acc for student, teacher                         main func 
 10. Command clear conversations                            ???? idk how
 11. password from 4 char to 20(+++)                        done 
+12. cancel registration                                    done
