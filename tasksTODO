@@ -1,13 +1,9 @@
-1. Cabinet for user                                        main func done+
-2. Recommend Events for user by passing test               main func
-3. Exception on unique, exist, null, turn off.(+++)        done
-4. Hash password(+++)                                      done 
-5. Probably add back button to go back in 1 step           ???? idk how
-6. Admin login and menu                                    main func 
-7. Admin add teacher, add event, add info.                 main func 
-8. Teacher login, teacher cabinet, teacher upd             main func 
-9. Delete acc for student, teacher                         main func 
-10. Command clear conversations                            ???? idk how
-11. password from 4 char to 20(+++)                        done 
-12. cancel registration                                    done
-13. button search in mentors, events                       main func 
+2. Recommend Events for user by passing test                                         main func
+
+5. Probably add back button to go back in 1 step                                    ???? idk how
+
+8. Teacher login, teacher cabinet, teacher upd   add event, add info.                 main func 
+
+9. Delete acc for student, teacher                                                main func 
+  
+13. button search in mentors, events                                                   main func 
